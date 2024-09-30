@@ -84,3 +84,13 @@ a:hover, a:focus, input:focus {
   outline: none;
   border-color: transparent;
 }
+
+
+.bright-link {
+  color: #00f134;
+  text-decoration: underline;
+}
+
+.bright-link:hover{
+  color: rgb(211, 210, 210);
+}
